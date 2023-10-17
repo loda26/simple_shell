@@ -5,7 +5,6 @@
  * @command: input
  * Return: path or NULL
  */
-
 char *_getpath(char *command)
 {
 char *path_env, *cmd, *road;
